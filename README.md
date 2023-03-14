@@ -35,5 +35,6 @@
   <a href="mailto:ferraz.felipe.pro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
   <a href="https://www.linkedin.com/in/felipe-ferraz-006b48260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
   <a href="https://www.instagram.com/felipeferraz_8/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a/>
+   <a href="http://lattes.cnpq.br/3957067879799336"><img heigth="200px" width="135px" src="https://img.shields.io/badge/-Curr%C3%ADculo%20Lattes-blue"><a/>
 <div/>
        
