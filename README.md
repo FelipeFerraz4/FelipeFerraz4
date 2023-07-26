@@ -1,8 +1,8 @@
-<h4>👋 Olá pessoal, meu nome é Felipe Ferraz, mas também me refiro-me nos projetos com Fox Team.<h4/>
+<h4>👋 Olá pessoal, meu nome é Felipe Ferraz, mas também refiro-me nos projetos com Fox Team.<h4/>
 
-- 🔭 Desenvolvedor Front-End jr e Data Science jr.
+- 🔭 Desenvolvedor Full Stack jr e Data Science jr.
 
-- ✨ Atualmente desenvolvo projetos persoais e alguns pedidos pela minha faculdade.
+- ✨ Atualmente desenvolvo projetos persoais e alguns pedidos pela minha universidade.
  
 - 🌱 Meus principais projetos estão aqui -> {Portifólio ainda em construção}
   
