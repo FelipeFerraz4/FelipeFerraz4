@@ -4,7 +4,7 @@
 
 - ✨ Atualmente desenvolvo projetos persoais e alguns pedidos pela minha universidade.
  
-- 🌱 Meus principais projetos estão aqui -> {Portifólio ainda em construção}
+- 🌱 Meus principais projetos estão no meu [portfolio versão 1.0](https://felipeferraz4.github.io/Portfolio/)
   
   <div width="100%"><br>
       <a href="https://github.com/FelipeFerraz4">
