@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor Full Stack jr.
 
-- ✨ Atualmente desenvolvo projetos persoais e alguns pedidos pela minha universidade.
+- ✨ Atualmente desenvolvo projetos persoais e alguns pedidos pela minha universidade (UFCA).
  
 - 🌱 Meus principais projetos estão no meu [portfolio versão 1.0](https://felipeferraz4.github.io/Portfolio/)
   
