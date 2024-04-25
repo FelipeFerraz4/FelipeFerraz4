@@ -32,8 +32,8 @@ Atualmente, estou desenvolvendo projetos pessoais, alguns dos quais solicitados 
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) -->
 
 ## 💻 Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/Carolinafvf)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![LinkedIn](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://www.linkedin.com/in/felipe-ferraz-006b48260/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeFerraz4))
 [![Lattes](https://img.shields.io/badge/Curriculo%20Lattes-black?style=for-the-badge)](http://lattes.cnpq.br/3957067879799336)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/felipeferraz_8/)
 
