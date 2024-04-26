@@ -4,7 +4,7 @@ Olá, sou estudante de Ciência da Computação na UFCA, com foco em uma carreir
 Atualmente, estou desenvolvendo projetos pessoais, alguns dos quais solicitados pela minha universidade.
 
 - 🌱 Meus principais projetos estão no meu [portfolio versão 1.0](https://felipeferraz4.github.io/Portfolio/).
-- 👋 Também refiro-me nos projetos com Fox Team.
+- 👋 Também refiro-me nos projetos com Blue Fox.
 
 ## 📚 Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
