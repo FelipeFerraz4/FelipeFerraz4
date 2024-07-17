@@ -45,8 +45,9 @@ Atualmente, estou desenvolvendo projetos pessoais, alguns dos quais solicitados 
     <a>
 <div>
 
+<!--
 ## 🖱 Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Carolinafvf&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Carolinafvf/dio-lab-open-source)
-
+-->
 
 <!-- ![BrunoMartinsGameDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsGameDev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact) -->
