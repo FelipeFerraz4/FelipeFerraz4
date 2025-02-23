@@ -1,10 +1,10 @@
 # Felipe Ferraz
 
-Hello, I am a Computer Science student at UFCA, focusing on a Full-Stack career with an emphasis on Back-end.
-Currently, I am working on personal projects, some of which were requested by my university.
+Hello, I am a Computer Science student at UFCA, focusing on a Full-Stack career with an emphasis on Back-end. I am currently working on personal projects, some of which were requested by my university, as well as external projects in which I participate.
 
-🌱 My main projects are available on my portfolio version 1.0 (outdated version).
-👋 I am also involved in projects with Blue Fox.
+🌱 My main projects are available in my portfolio version 1.0 (outdated version).
+
+👋 I also mention myself in the projects with Blue Fox.
 
 ## 📚 Skills
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
