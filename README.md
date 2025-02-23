@@ -1,10 +1,10 @@
 # Felipe Ferraz
 
-Olá, sou estudante de Ciência da Computação na UFCA, com foco em uma carreira de Full-Stack, com ênfase no Back-end. 
-Atualmente, estou desenvolvendo projetos pessoais, alguns dos quais solicitados pela minha universidade.
+Hello, I am a Computer Science student at UFCA, focusing on a Full-Stack career with an emphasis on Back-end.
+Currently, I am working on personal projects, some of which were requested by my university.
 
-- 🌱 Meus principais projetos estão no meu [portfolio versão 1.0](https://felipeferraz4.github.io/Portfolio/).
-- 👋 Também refiro-me nos projetos com Blue Fox.
+🌱 My main projects are available on my portfolio version 1.0 (outdated version).
+👋 I am also involved in projects with Blue Fox.
 
 ## 📚 Habilidades
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
