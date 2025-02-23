@@ -6,7 +6,7 @@ Currently, I am working on personal projects, some of which were requested by my
 🌱 My main projects are available on my portfolio version 1.0 (outdated version).
 👋 I am also involved in projects with Blue Fox.
 
-## 📚 Habilidades
+## 📚 Skills
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +34,7 @@ Currently, I am working on personal projects, some of which were requested by my
 <!-- ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) -->
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) -->
 
-## 💻 Redes Sociais
+## 💻 Social Media
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferraz-006b48260/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeFerraz4)
 [![Lattes](https://img.shields.io/badge/Curriculo%20Lattes-black?style=for-the-badge)](http://lattes.cnpq.br/3957067879799336)
