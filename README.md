@@ -2,7 +2,7 @@
 
 Hello, I am a Computer Science student at UFCA, focusing on a Full-Stack career with an emphasis on Back-end. I am currently working on personal projects, some of which were requested by my university, as well as external projects in which I participate.
 
-🌱 My main projects are available in [my portfolio version 2.0](https://portifolio-kappa-flame.vercel.app/).
+🌱 My main projects are available in [my portfolio version 2.0](https://www.felipeferraz.space/).
 
 👋 I also mention myself in the projects with Blue Fox.
 
