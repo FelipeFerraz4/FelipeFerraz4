@@ -7,6 +7,7 @@ Pesquisador e Desenvolvedor Full-Stack focado em construir sistemas robustos e e
 ## 🚀 Sobre Mim
 - 🎓 **Bacharel em Ciência da Computação** pela Universidade Federal do Cariri (UFCA).
 - 🏗️ **Foco:** Desenvolvimento Back-end com ecossistema Java/Spring e Kotlin.
+- 🌐 **Portfólio Oficial:** Conheça meus projetos em [felipeferraz.space](https://www.felipeferraz.space/)
 - 🧪 **Pesquisa:** Atuante em Engenharia de Software Contínua e Metodologias Ágeis em empresas júnior.
 - 🐟 **Projetos Especiais:** Criador da plataforma [Blue Fox Aquarismo](https://bluefoxaquarismo.space/).
 - 🏆 **Competição:** Fundador da LACCA (Liga Acadêmica de Computação Competitiva e Algoritmos).
