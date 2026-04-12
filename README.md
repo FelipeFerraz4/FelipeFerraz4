@@ -39,7 +39,6 @@ Pesquisador e Desenvolvedor Full-Stack focado em construir sistemas robustos e e
 ---
 
 ## 📊 GitHub Stats
-Para garantir que os cards apareçam, usei uma sintaxe mais limpa. Se não carregarem de primeira, é apenas o cache do GitHub processando o link:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFerraz4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
