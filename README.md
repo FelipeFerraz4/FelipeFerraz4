@@ -37,6 +37,7 @@ Pesquisador e Desenvolvedor Full-Stack focado em construir sistemas robustos e e
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -45,7 +46,7 @@ Pesquisador e Desenvolvedor Full-Stack focado em construir sistemas robustos e e
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFerraz4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerraz4&layout=compact&theme=tokyonight&hide=html,css" />
 </div>
-
+-->
 ---
 
 ## 🌐 Conecte-se Comigo
